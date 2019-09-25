@@ -1,0 +1,12 @@
+CREATE TABLE PitchSelection_byCatcherCount
+SELECT cb.catcherID, cb.stand, cb.balls, cb.strikes, pb.pitch_name, pb.timesThrown, cb.occurances, (pb.timesThrown/cb.occurances)*100 as percentThrown
+FROM 
+    (SELECT fielder_2 as catcherID, stand, balls, strikes, count(pitch_name) as occurances
+    FROM `2019Pitches`
+     GROUP BY catcherID, stand, balls, strikes) AS cb
+JOIN 
+    (SELECT fielder_2 as catcherID, stand, balls, strikes, pitch_name, count(pitch_name) as timesThrown
+     FROM `2019Pitches`
+     GROUP BY catcherID, stand, balls, strikes, pitch_name) AS pb
+ON cb.catcherID = pb.catcherID AND cb.balls = pb.balls AND cb.strikes = pb.strikes AND cb.stand = pb.stand
+GROUP BY cb.catcherID, cb.stand, cb.balls, cb.strikes, pb.pitch_name, pb.timesThrown, cb.occurances, percentThrown
