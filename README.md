@@ -7,5 +7,3 @@ Phase 1 - Breakdown pitch selection in each count and see if the catcher he is t
 also divided by batter stance (L/R). 
 
 Phase 2 - Breakdown pitch selection in each count while considering the previous pitch and if it was a ball or strike. Data is also divided by catcher and by batter stance (L/R).
-
-Phase 3 - Pull multiple pitcher/catcher combos and try to predict the pitches they will call in a game based on previous data. Hypothesis is that catcher/pitcher combos with low predictability will be more successful and have better stats. Stat to compare to is TBD.
