@@ -1,0 +1,110 @@
+stand,balls,strikes,pitch_name,timesThrown,occurances,percentThrown
+L,0,0,4-Seam Fastball,89,361,24.6537
+L,0,0,Changeup,65,361,18.0055
+L,0,0,Curveball,49,361,13.5734
+L,0,0,Sinker,137,361,37.9501
+L,0,0,Slider,21,361,5.8172
+L,0,1,4-Seam Fastball,71,185,38.3784
+L,0,1,Changeup,39,185,21.0811
+L,0,1,Curveball,18,185,9.7297
+L,0,1,Sinker,39,185,21.0811
+L,0,1,Slider,18,185,9.7297
+L,0,2,4-Seam Fastball,47,120,39.1667
+L,0,2,Changeup,35,120,29.1667
+L,0,2,Curveball,10,120,8.3333
+L,0,2,Sinker,14,120,11.6667
+L,0,2,Slider,14,120,11.6667
+L,1,0,4-Seam Fastball,38,124,30.6452
+L,1,0,Changeup,43,124,34.6774
+L,1,0,Curveball,6,124,4.8387
+L,1,0,Sinker,29,124,23.3871
+L,1,0,Slider,8,124,6.4516
+L,1,1,4-Seam Fastball,49,143,34.2657
+L,1,1,Changeup,46,143,32.1678
+L,1,1,Curveball,10,143,6.993
+L,1,1,Sinker,24,143,16.7832
+L,1,1,Slider,14,143,9.7902
+L,1,2,4-Seam Fastball,59,154,38.31168831
+L,1,2,Changeup,43,154,27.9221
+L,1,2,Curveball,10,154,6.4935
+L,1,2,Sinker,16,154,10.3896
+L,1,2,Slider,26,154,16.8831
+L,2,0,4-Seam Fastball,10,32,31.25
+L,2,0,Changeup,10,32,31.25
+L,2,0,Sinker,12,32,37.5
+L,2,1,4-Seam Fastball,19,50,38
+L,2,1,Changeup,16,50,32
+L,2,1,Sinker,12,50,24
+L,2,1,Slider,3,50,6
+L,2,2,4-Seam Fastball,29,92,31.5217
+L,2,2,Changeup,27,92,29.3478
+L,2,2,Curveball,6,92,6.5217
+L,2,2,Sinker,15,92,16.3043
+L,2,2,Slider,15,92,16.3043
+L,3,0,4-Seam Fastball,5,14,35.7143
+L,3,0,Changeup,1,14,7.1429
+L,3,0,Sinker,8,14,57.1429
+L,3,1,4-Seam Fastball,10,26,38.4615
+L,3,1,Changeup,7,26,26.9231
+L,3,1,Sinker,8,26,30.7692
+L,3,1,Slider,1,26,3.8462
+L,3,2,4-Seam Fastball,21,58,36.2069
+L,3,2,Changeup,14,58,24.1379
+L,3,2,Curveball,4,58,6.8966
+L,3,2,Sinker,12,58,20.6897
+L,3,2,Slider,7,58,12.069
+R,0,0,4-Seam Fastball,141,437,32.2654
+R,0,0,Changeup,7,437,1.6018
+R,0,0,Curveball,59,437,13.5011
+R,0,0,Sinker,151,437,34.5538
+R,0,0,Slider,79,437,18.0778
+R,0,1,4-Seam Fastball,51,233,21.8884
+R,0,1,Changeup,15,233,6.4378
+R,0,1,Curveball,36,233,15.4506
+R,0,1,Sinker,85,233,36.4807
+R,0,1,Slider,46,233,19.7425
+R,0,2,4-Seam Fastball,36,133,27.0677
+R,0,2,Changeup,15,133,11.2782
+R,0,2,Curveball,12,133,9.0226
+R,0,2,Sinker,31,133,23.3083
+R,0,2,Slider,39,133,29.3233
+R,1,0,4-Seam Fastball,32,147,21.7687
+R,1,0,Changeup,11,147,7.483
+R,1,0,Curveball,8,147,5.4422
+R,1,0,Sinker,53,147,36.0544
+R,1,0,Slider,43,147,29.2517
+R,1,1,4-Seam Fastball,38,169,22.4852
+R,1,1,Changeup,18,169,10.6509
+R,1,1,Curveball,14,169,8.284
+R,1,1,Sinker,63,169,37.2781
+R,1,1,Slider,36,169,21.3018
+R,1,2,4-Seam Fastball,38,164,23.17073171
+R,1,2,Changeup,27,164,16.4634
+R,1,2,Curveball,25,164,15.2439
+R,1,2,Sinker,37,164,22.561
+R,1,2,Slider,37,164,22.561
+R,2,0,4-Seam Fastball,13,45,28.88888889
+R,2,0,Changeup,3,45,6.6667
+R,2,0,Curveball,1,45,2.2222
+R,2,0,Sinker,25,45,55.5556
+R,2,0,Slider,2,45,4.4444
+R,2,1,4-Seam Fastball,23,79,29.1139
+R,2,1,Changeup,10,79,12.6582
+R,2,1,Curveball,4,79,5.0633
+R,2,1,Sinker,34,79,43.038
+R,2,1,Slider,8,79,10.1266
+R,2,2,4-Seam Fastball,29,125,23.2
+R,2,2,Changeup,21,125,16.8
+R,2,2,Curveball,10,125,8
+R,2,2,Sinker,38,125,30.4
+R,2,2,Slider,27,125,21.6
+R,3,0,4-Seam Fastball,8,13,61.5385
+R,3,0,Sinker,5,13,38.4615
+R,3,1,4-Seam Fastball,9,28,32.1429
+R,3,1,Changeup,2,28,7.1429
+R,3,1,Sinker,17,28,60.7143
+R,3,2,4-Seam Fastball,13,66,19.697
+R,3,2,Changeup,12,66,18.1818
+R,3,2,Curveball,2,66,3.0303
+R,3,2,Sinker,28,66,42.4242
+R,3,2,Slider,11,66,16.6667
